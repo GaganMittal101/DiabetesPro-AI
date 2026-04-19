@@ -1,0 +1,11 @@
+gradio
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+shap
+fpdf2
+imbalanced-learn
+Pillow
